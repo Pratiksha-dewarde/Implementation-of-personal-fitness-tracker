@@ -1,1 +1,1 @@
-Implementation of pesronal fitness tracker
+Implementation of personal fitness tracker
